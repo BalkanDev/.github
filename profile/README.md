@@ -5,7 +5,7 @@
   </a>
   <h3 align="center">Balkan Development </h3>
   <p align="center">
-    Balkan Development is a company that provides developers from balkans a job.
+    Balkan Development is a company that provides website creation services.
     <br />
     <a href="https://balkan-dev.com"><strong>Visit our website »</strong></a>
     <br />
